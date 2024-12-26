@@ -143,7 +143,9 @@ This project is licensed under the [MIT License](https://github.com/SMTNDev/BioK
 
 ## 💬 Connect with Us
 
-- GitHub: [BioKeyAuthenticator](https://github.com/SMTNDev/BioKey-Authenticator.git)
-- Twitter: [@SMTNDev](https://x.com/SMTNDev)
-- Email: [support@biokeyauthenticator.com](smtndevworks@gmail.com)
+- [![BioKey-Authenticator](https://img.shields.io/badge/BioKey--Authenticator-black?style=for-the-badge&logo=github)](https://github.com/SMTNDev/BioKey-Authenticator.git)
 
+- [![X Profile](https://img.shields.io/badge/X--Profile-@SMTNDev-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SMTNDev)
+
+
+- [![Email](https://img.shields.io/badge/Email-smtndevworks@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:smtndevworks@gmail.com)

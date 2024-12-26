@@ -92,7 +92,7 @@ Comprehensive guides and references:
 1. [Installation Guide](docs/INSTALL.md)
     - Step-by-step setup instructions.
 
-2. [Usage Guide](docs/Usage.md)
+2. [Usage Guide](docs/USAGE.md)
     - Learn how to use the CLI and features.
 
 3. [API Reference](docs/API_REFERENCE.md)

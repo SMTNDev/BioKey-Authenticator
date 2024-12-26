@@ -28,7 +28,7 @@ bio-key-authenticator/
 ```
 
 ## Quick Start
-Refer to [INSTALLATION.md](INSTALLATION.md) for setup instructions.
+Refer to [INSTALL.md](INSTALL.md) for setup instructions.
 
 ## License
 [MIT License](LICENSE)

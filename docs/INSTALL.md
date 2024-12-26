@@ -54,7 +54,7 @@ Install Python dependencies manually:
 ```bash
 pip install -r requirements.txt
 ```
-For further assistance, refer to the Issues section.
+For further assistance, refer to the [Issues section](issues-section).
 
 ## Directory Structure
 ```

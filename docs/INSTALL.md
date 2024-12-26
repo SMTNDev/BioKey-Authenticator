@@ -54,7 +54,7 @@ Install Python dependencies manually:
 ```bash
 pip install -r requirements.txt
 ```
-For further assistance, refer to the [issues-section](https://github.com/SMTNDev/BioKey-Authenticator/issues).
+For further assistance, refer to the [Issues section](https://github.com/SMTNDev/BioKey-Authenticator/issues).
 
 ## Directory Structure
 ```
